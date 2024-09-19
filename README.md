@@ -11,7 +11,7 @@ Welcome to **Hazard Recognition**, an innovative internal application designed s
 
 You can access Hazard Recognition through the following platforms:
 
-- **Android**: [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Alvinleow/hazard_recognition/releases/download/test/hazard_recognition_test.apk)
+- **Android**: [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Alvinleow/Public_Hazard_Recognition/releases/download/test/hazard_recognition_test.apk)
 - **Web**: <a href="https://hazard-recognition-13bae.firebaseapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/Open-Web--App-blue?style=for-the-badge&logo=googlechrome" alt="Visit Web App" />
   </a>
