@@ -1,6 +1,6 @@
 ## Hazard Recognition
 
-Welcome to **Hazard Recognition**, an innovative internal application designed specifically for BERICAP to streamline and manage [core purpose of the app].
+Welcome to **Hazard Recognition**, an innovative internal application designed specifically for BERICAP to streamline and manage hazards.
 
 ### 🛠️ Built With:
 
