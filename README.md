@@ -5,18 +5,18 @@ Welcome to **Hazard Recognition**, an innovative internal application designed s
 ### 🛠️ Built With:
 
 - **Editor**: Visual Studio Code (VSCode)
-- **Supported Platforms**: Android and Web _(iOS support coming soon!)_
+- **Supported Platforms**: Android and Web _(iOS users can access via the Web link below)_
 
 ### 📲 Download and Use:
 
 You can access Hazard Recognition through the following platforms:
 
 - **Android**: [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Alvinleow/Public_Hazard_Recognition/releases/download/v1.3.1/hazard_recognition_v1.3.1.apk)
-- **Web**: <a href="https://hazard-recognition-13bae.firebaseapp.com/" target="_blank">
+- **Web (Recommended for iOS users)**: <a href="https://hazard-recognition-13bae.firebaseapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/Open-Web--App-blue?style=for-the-badge&logo=googlechrome" alt="Visit Web App" />
   </a>
 
-> _iOS support is coming soon!_
+> _iOS users: Please access the app via the Web link provided above._
 
 ### ✨ Key Features:
 
@@ -69,8 +69,6 @@ To run Hazard Recognition locally, follow these steps:
    ```
 
 ### 📈 Future Plans:
-
-- **iOS Support**: We're working on expanding Hazard Recognition to iOS to provide a seamless experience across all major platforms.
 
 - **New Features**: Expect continuous updates and new features, including enhanced reporting capabilities and better task management tools.
 
