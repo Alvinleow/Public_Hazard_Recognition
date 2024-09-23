@@ -43,31 +43,6 @@ Hazard Recognition offers a set of powerful tools designed to enhance internal w
 7. **User Profile**  
    Access and update your profile information, including contact details and preferences.
 
-### 🔧 Installation and Setup (For Developers):
-
-To run Hazard Recognition locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Alvinleow/hazard_recognition.git
-   cd Hazard Recognition-repo
-   ```
-2. **Install dependencies**: Make sure you have Flutter installed and run:
-   ```bash
-   flutter pub get
-   ```
-3. **Run the app**: For Android:
-
-   ```bash
-   flutter run
-   ```
-
-   For Web:
-
-   ```bash
-   flutter run -d chrome
-   ```
-
 ### 📈 Future Plans:
 
 - **New Features**: Expect continuous updates and new features, including enhanced reporting capabilities and better task management tools.
