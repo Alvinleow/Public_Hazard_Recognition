@@ -5,7 +5,12 @@ Welcome to **Hazard Recognition**, an innovative internal application designed s
 ### 🛠️ Built With:
 
 - **Editor**: Visual Studio Code (VSCode)
-- **Supported Platforms**: Android and Web _(iOS users can access via the Web link below)_
+- **Supported Platforms**: Android and Web 
+> _iOS application is not supported, but users can still access via the Web link below_
+
+### 💻 Recommended Usage:
+
+For the best experience, we strongly recommend accessing Hazard Recognition via a PC or laptop, or by downloading the Android app. While the application is accessible on mobile devices, particularly Android, using a larger screen on a desktop or laptop will provide an optimal experience, ensuring that all features are fully accessible and easy to navigate.
 
 ### 📲 Download and Use:
 
@@ -16,7 +21,7 @@ You can access Hazard Recognition through the following platforms:
   <img src="https://img.shields.io/badge/Open-Web--App-blue?style=for-the-badge&logo=googlechrome" alt="Visit Web App" />
   </a>
 
-> _iOS users: Please access the app via the Web link provided above._
+> _iOS application is not supported, but users can still access the app via the Web link provided above._
 
 ### ✨ Key Features:
 
