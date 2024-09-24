@@ -6,6 +6,7 @@ Welcome to **Hazard Recognition**, an innovative internal application designed s
 
 - **Editor**: Visual Studio Code (VSCode)
 - **Supported Platforms**: Android and Web 
+
 > _iOS application is not supported, but users can still access via the Web link below_
 
 ### 💻 Recommended Usage:
